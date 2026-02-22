@@ -1,6 +1,6 @@
 # Moss Species Image Classification Using Teachable Machine
 
-## 🌿 Project Overview
+## 🌿 A. Project Overview
 
 This project develops an image classification model to recognize **20 different moss species** using Google Teachable Machine. The model was trained on 6,614 images (250-350 per species) and achieves excellent accuracy in identifying moss species from images.
 
@@ -12,7 +12,7 @@ This project develops an image classification model to recognize **20 different 
 
 ---
 
-## 🌱 20 Moss Species with Representative Images
+## 🌱 B. 20 Moss Species with Representative Images
 
 ### 1. Peat moss (Sphagnum spp.)
 ![Peat moss](screenshots/representative/Peat%20moss.jpg)
@@ -156,7 +156,7 @@ This project develops an image classification model to recognize **20 different 
 
 ---
 
-## 🤖 Model Training Details
+## 🤖 C. Model Training Details
 
 ### Training Configuration
 
@@ -179,7 +179,7 @@ This project develops an image classification model to recognize **20 different 
 
 ---
 
-## 📈 Model Evaluation
+## 📈 D. Model Evaluation
 
 ### Confusion Matrix
 ![Confusion Matrix](screenshots/evaluation/01_confusion_matrix.png)
@@ -216,7 +216,7 @@ This indicates the model correctly classifies moss species [INSERT YOUR ACCURACY
 
 ---
 
-## 🧪 Model Testing Results
+## 🧪 E. Model Testing Results
 
 ### Test 1: Peat moss
 ![Test 1](screenshots/testing/test_01_peat_moss.png)
